@@ -11,6 +11,7 @@
       <h3>🚀 Student Developer | ⚡ Lifelong Learner</h3>
       <p>I am a passionate <b>full-stack engineer</b> focused on building clean, scalable, and user-friendly web applications using modern technologies.</p>
       <p> My biggest drive is learning how to translate everyday things, routines, and real-world dynamics into clean, functional code.</p>
+      <p>Outside of engineering, you can usually find me managing media and promotions for student-led campus events</p>
     </td>
     <!-- Right Column: Your Uploaded Illustration with exact filename -->
     <td width="45%" valign="middle" align="center">
