@@ -2,7 +2,31 @@
 
 # ✨ Hey! I am Sanya 👋✨
 
-🚀 Full-Stack Engineer building clean applications and robust architectures.
+</div>
+
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <!-- Left Column: Bio Text -->
+    <td width="60%" valign="top">
+      <h3>🎓 Student Developer | ⚡ Lifelong Learner</h3>
+      <p>I am a passionate <b>full-stack engineer</b> focused on building clean, scalable, and user-friendly web applications using modern technologies.</p>
+      <p>💡 My biggest drive is learning how to translate everyday things, routines, and real-world dynamics into clean, functional code.</p>
+    </td>
+    <!-- Right Column: Aesthetic Tech Illustration -->
+    <td width="40%" valign="middle" align="center">
+      <img src="https://github-readme-images.vercel.app/coding.gif" alt="Aesthetic Coding Illustration" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+---
+
+### 🐍 GitHub Contribution Snake Game
+
+<!-- Animated snake game matching the deep purple theme -->
+<img src="https://raw.githubusercontent.com/sanyasimms/sanyasimms/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%" />
 
 ---
 
@@ -39,12 +63,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyasimms&theme=dracula&hide_border=true&background=0d1117&sideNums=bd93f9&stroke=bd93f9" alt="Sanya's Streak Stats" width="85%" />
 </p>
-
-### 🐍 GitHub Contribution Snake Game
-
-<!-- Animated snake game matching the deep purple theme -->
-<img src="https://raw.githubusercontent.com/sanyasimms/sanyasimms/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%" />
-
----
 
 </div>
