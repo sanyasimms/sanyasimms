@@ -6,13 +6,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake Game
-
-<!-- Animated snake game matching the deep purple theme -->
-<img src="https://raw.githubusercontent.com/sanyasimms/sanyasimms/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%" />
-
----
-
 ### 🛠️ Tech Stack
 
 **🎨 Frontend & 📝 Languages**
@@ -46,5 +39,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyasimms&theme=dracula&hide_border=true&background=0d1117&sideNums=bd93f9&stroke=bd93f9" alt="Sanya's Streak Stats" width="85%" />
 </p>
+
+### 🐍 GitHub Contribution Snake Game
+
+<!-- Animated snake game matching the deep purple theme -->
+<img src="https://raw.githubusercontent.com/sanyasimms/sanyasimms/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%" />
+
+---
 
 </div>
